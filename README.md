@@ -69,6 +69,12 @@ Para abordar este desafío, necesitamos una estructura.
 
 7. Conclusión y Selección del modelo   
 
+**Data_Credit_Card** : Database en formato .csv
+
+**Proyecto_Final-SalazarAlan.ipynb** : Se encuentrá el proyecto completo en formato .ipynb
+
+**Slides_ProyectoFinal_SalazarAlan.pdf**: En este archivo se encuentra una presentación del proyecto resumida.
+
 
 Accesos a los archivos;
 
