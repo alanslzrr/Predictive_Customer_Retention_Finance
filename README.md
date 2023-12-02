@@ -1,4 +1,5 @@
 # Path to Customer Retention in the Financial Sector
+*Customer Retention Optimization through Predictive Analysis and Machine Learning in the Financial Sector*
 
 ### **Introduction**
 This is a common challenge faced by financial companies. The ability to predict and understand the factors contributing to customer churn can make a significant difference in the profitability and success of a financial entity.
