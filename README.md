@@ -1,85 +1,85 @@
-# Camino hacia la Retención de Clientes en el Sector Financiero
+# Path to Customer Retention in the Financial Sector
 
-### **Introduccion**
-Este es un desafío habitual que enfrentan las empresas financieras, la capacidad de predecir y comprender los factores que contribuyen al abandono de los clientes puede marcar una gran diferencia en la rentabilidad y el éxito de una entidad financiera.
+### **Introduction**
+This is a common challenge faced by financial companies. The ability to predict and understand the factors contributing to customer churn can make a significant difference in the profitability and success of a financial entity.
 
-En este conjunto de datos se encuentran registrados algunos atributos demográficos de los clientes, así como información relacionada con sus tarjetas de crédito, incluyendo el tipo de tarjeta, el límite de crédito, el saldo revolvente, entre otros.
+This dataset includes some demographic attributes of the clients, as well as information related to their credit cards, including card type, credit limit, revolving balance, among others.
 
-### **Problematíca**
-El principal objetivo es predecir el abandono del cliente . Al comprender las razones detrás de la fuga de clientes, las instituciones financieras pueden implementar **estrategias efectivas de retención**, **adaptar sus productos** y **servicios**, y brindar una experiencia **personalizada** para fomentar la lealtad del cliente.
+### **Problem Statement**
+The main goal is to predict customer churn. By understanding the reasons behind customer attrition, financial institutions can implement **effective retention strategies**, **tailor their products** and **services**, and provide a **personalized** experience to foster customer loyalty.
 
-Demostraremos cómo el **Análisis de Datos** y el **Machine Learning** pueden brindar una ventaja competitiva al identificar patrones y señales tempranas para abordar un problema.
+We will demonstrate how **Data Analysis** and **Machine Learning** can provide a competitive edge by identifying patterns and early signals to address a problem.
 
-Para abordar este desafío, necesitamos una estructura.
+To tackle this challenge, we need a structure.
 
-### **Sistema**
+### **System**
 
-1. **Data Acquisition** Extraccion e importaciondel dataset
+1. **Data Acquisition** Extraction and import of the dataset
 
-2. **EDA** Análisis exploratorio de los datos
+2. **EDA** Exploratory Data Analysis
 
-   2.1 Exploración - Entendimiento de nuestros datos - Primeras preguntas hipotesis
+   2.1 Exploration - Understanding our data - First hypothesis questions
 
-   2.2 Limpieza del dataset
+   2.2 Cleaning the dataset
 
-   2.3 Relacion Lineal de variables
+   2.3 Linear Relationship of variables
 
-3. Análisis **Univariado** y **Bivariado**
+3. **Univariate** and **Bivariate Analysis**
 
-   3.2 Univariado - *Comprender cada variable*
+   3.2 Univariate - *Understanding each variable*
 
-   3.3 Bivariado - *Relaciones entre variables*
+   3.3 Bivariate - *Relationships between variables*
 
-4. **Data Wrangling** definicion del dataset
+4. **Data Wrangling** definition of the dataset
 
-   4.2 Alcance
+   4.2 Scope
 
-   4.3 Estandarización y PCA
+   4.3 Standardization and PCA
 
-   4.4 División
+   4.4 Splitting
 
-5. **Algoritmos** Seleccion de Algoritmos
+5. **Algorithms** Selection of Algorithms
 
-   5.# **Clasificacion/Regresión** Modelo
+   5.# **Classification/Regression** Model
 
-      - A. **Entrenamiento** del modelo
+      - A. **Training** the model
 
-      - B.**Guardado** de Metricas
+      - B. **Saving** Metrics
 
-      - C. **Metrícas y Performance** *del modelo
-           Importancías del Modelo
-           Cross Value Score (Validación cruzada)*
+      - C. **Metrics and Performance** *of the model
+           Model Importances
+           Cross Value Score (Cross-validation)*
 
-      - D. Conclusión del modelo
+      - D. Conclusion of the model
 
-6. Insights Visualizaciones valiosas de nuestros modelos
+6. Insights Valuable visualizations from our models
 
-   6.2 Reportes de Metricas
-      - A. Dataframe concatenados
+   6.2 Metrics Reports
+      - A. Concatenated Dataframes
 
-      - B. Importancia de variables en los modelos
+      - B. Importance of variables in the models
 
-   6.3 Pautas de visualizaciones
+   6.3 Guidelines for visualizations
 
-      - A. Objetivo
+      - A. Objective
 
-      - B. Publico
+      - B. Audience
 
-   6.4 Hipotesis ➡ Graficos
+   6.4 Hypothesis ➡ Graphics
 
-7. Conclusión y Selección del modelo   
+7. Conclusion and Model Selection
 
-**Data_Credit_Card** : Database en formato .csv
+**Data_Credit_Card**: Database in .csv format
 
-**Proyecto_Final-SalazarAlan.ipynb** : Se encuentrá el proyecto completo en formato .ipynb
+**Proyecto_Final-SalazarAlan.ipynb**: The complete project in .ipynb format
 
-**Slides_ProyectoFinal_SalazarAlan.pdf**: En este archivo se encuentra una presentación del proyecto resumida.
+**Slides_ProyectoFinal_SalazarAlan.pdf**: This file contains a summarized presentation of the project.
 
 
-Accesos a los archivos;
+Access to the files;
 
 Drive: https://drive.google.com/drive/folders/1gi4t-MfCqtiYX4NmFaIwC77gQW5f9YPk?usp=sharing
 
 Colab: https://colab.research.google.com/drive/1HWmogjjv3Gshjj1kx2yKUrVp5itA1XOk?usp=sharing
 
-Calificación del proyecto final : 10/10
+Calification : 10/10
