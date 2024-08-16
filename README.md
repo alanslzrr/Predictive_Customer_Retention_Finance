@@ -1,5 +1,17 @@
 # Credit Card Customer Churn Prediction
 
+## Technologies Used
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.0%2B-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.18%2B-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24%2B-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3%2B-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.11%2B-76b900?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-3.2%2B-2980b9?style=for-the-badge&logo=microsoft&logoColor=white)](https://lightgbm.readthedocs.io/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-6.1%2B-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+
 ## Project Overview
 This project implements a machine learning-based system to predict customer churn for a financial institution's credit card business. Customer churn, or attrition, is a critical challenge faced by financial companies. The ability to predict and understand factors contributing to customer attrition can significantly impact the profitability and success of a financial entity.
 
