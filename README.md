@@ -86,7 +86,7 @@ The project follows a structured data science approach:
 ## Machine Learning Highlights
 
 ### Cross-Validation
-- Implemented **5-fold cross-validation** to ensure model robustness and generalizability.
+- **Stratified K-Fold** was implemented to ensure robustness and validate overfitting models.
 
 ### Hyperparameter Tuning
 - Utilized `GridSearchCV` to find the optimal combination of hyperparameters for the LightGBM model.
